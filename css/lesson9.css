@@ -1,0 +1,44 @@
+.container {
+    width: 80%;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card {
+    width: 30%;
+    background-color:cyan;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+
+}
+.card img {
+    width: 100%;
+}
+
+@media (   min-width:300px) and (max-width:600px ){
+    body {
+        background-color: red;
+    }
+    .card {
+        width: 100%;
+    }
+    @media (min-width: 601px) and (max-width: 1000px){
+    .card
+    {width: 45%;}
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+}

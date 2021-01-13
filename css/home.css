@@ -1,0 +1,94 @@
+body {
+    background-color: green;
+}
+
+
+.card1{
+    padding: 18px;
+    border: none;
+    width: 300px;
+    height: 375px;
+    background-color: white;
+    position: relative;
+top: 175px;
+    left:500px;
+    box-shadow: 2px 5px 7px black;
+    justify-content: space-between;
+    border: none;
+}
+.card1 img{
+padding-left: 85px;
+    padding-top: 21px;
+}
+.card1 h5 {
+    padding-top:10px ;
+text-align:center;
+    margin: 0 auto;
+}
+.bel {color: black;
+    text-align: center;
+    width: 250px;
+    height: 45px;
+    background-color: #F2F2F2;
+position: relative;
+    top: -119px;
+    left: 545px;
+    border: none;
+
+}
+.bel2 {
+    text-align: center;
+    width: 250px;
+    height: 45px;
+    color: black;
+background-color: #F2F2F2;
+    position: relative;
+    top:-110px;
+left: 545px;
+    border: none;
+
+}
+form {
+    border: none;
+}
+button {
+    border: none;
+    color: #DADCDF;
+    width: 250px;
+    height: 45px;
+    position:relative;
+top: -95px;
+left: 545px;
+background-color: green;
+}
+
+.bel3{
+    position:relative;
+    top: -70px;
+    left: 598px;
+    font-size: 10px;
+
+}
+.bel3 a {
+    color: green;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.bel4{
+    position:relative;
+    top: -60px;
+    left: 598px;
+    font-size: 10px;
+
+
+}
+.bel4 h3 {
+    font-size: 11.5px;
+    position: relative;
+
+    top: 5px;
+    left: -1px;
+
+
+
+}
